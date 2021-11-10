@@ -5,5 +5,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 
 >Platziii
 >Incluye
+>disponible
 
 Y como un amable recordatorio: **Este readme.md es un ejemplo**. Si llegas acá NO TE LO TOMES EN SERIO.
